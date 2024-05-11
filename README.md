@@ -1,4 +1,8 @@
-## usage
+## About
+A software to manage the records of students enrolled in a university
+Perform operations like searching records by filtering, inserting new records, deleting existing records, updating existing records
+
+## Usage
 
 1) First, setup your mysql server and start it
 2) Second, clone the repository
@@ -10,7 +14,7 @@ git clone https://github.com/umar1207/student-dbms.git
 ```bash
 npm install
 ```
-3) Lastly, Run the development server:
+4) Lastly, Run the development server:
 ```bash
 npm start
 ```
